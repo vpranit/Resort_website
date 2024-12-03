@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/resort_website/static/css/main.79874ab8.css",
+    "main.js": "/resort_website/static/js/main.0651df46.js",
+    "static/js/453.7c67ca08.chunk.js": "/resort_website/static/js/453.7c67ca08.chunk.js",
+    "static/media/logo.svg": "/resort_website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/resort_website/index.html",
+    "main.79874ab8.css.map": "/resort_website/static/css/main.79874ab8.css.map",
+    "main.0651df46.js.map": "/resort_website/static/js/main.0651df46.js.map",
+    "453.7c67ca08.chunk.js.map": "/resort_website/static/js/453.7c67ca08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79874ab8.css",
+    "static/js/main.0651df46.js"
+  ]
+}
